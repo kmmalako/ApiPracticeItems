@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kk6xQ6Qnh1rZ1z8cPJBLYe2adkXAVqkx85ZHcOL5KIf/Zq8tadzAP10x1mjLEuYB6B3s7uY6Jmuap/LJE9vR6A==",
+  "success": true,
+  "projectFilePath": "/Users/k10w33/Projects/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/Users/k10w33/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/k10w33/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/k10w33/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/k10w33/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/k10w33/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/k10w33/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
